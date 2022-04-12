@@ -1,0 +1,20 @@
+C:\Users\Schule\source\repos\Coockie Clicker Rip-Off\Coockie Clicker Rip-Off\obj\Debug\net5.0-windows\Coockie Clicker Rip-Off.csproj.AssemblyReference.cache
+C:\Users\Schule\source\repos\Coockie Clicker Rip-Off\Coockie Clicker Rip-Off\obj\Debug\net5.0-windows\Coockie_Clicker_Rip_Off.Form1.resources
+C:\Users\Schule\source\repos\Coockie Clicker Rip-Off\Coockie Clicker Rip-Off\obj\Debug\net5.0-windows\Coockie_Clicker_Rip_Off.Properties.Resources.resources
+C:\Users\Schule\source\repos\Coockie Clicker Rip-Off\Coockie Clicker Rip-Off\obj\Debug\net5.0-windows\Coockie Clicker Rip-Off.csproj.GenerateResource.cache
+C:\Users\Schule\source\repos\Coockie Clicker Rip-Off\Coockie Clicker Rip-Off\obj\Debug\net5.0-windows\Coockie Clicker Rip-Off.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Schule\source\repos\Coockie Clicker Rip-Off\Coockie Clicker Rip-Off\obj\Debug\net5.0-windows\Coockie Clicker Rip-Off.AssemblyInfoInputs.cache
+C:\Users\Schule\source\repos\Coockie Clicker Rip-Off\Coockie Clicker Rip-Off\obj\Debug\net5.0-windows\Coockie Clicker Rip-Off.AssemblyInfo.cs
+C:\Users\Schule\source\repos\Coockie Clicker Rip-Off\Coockie Clicker Rip-Off\obj\Debug\net5.0-windows\Coockie Clicker Rip-Off.csproj.CoreCompileInputs.cache
+C:\Users\Schule\source\repos\Coockie Clicker Rip-Off\Coockie Clicker Rip-Off\obj\Debug\net5.0-windows\Coockie_Clicker_Rip_Off.Form2.resources
+C:\Users\Schule\source\repos\Coockie Clicker Rip-Off\Coockie Clicker Rip-Off\bin\Debug\net5.0-windows\Coockie Clicker Rip-Off.exe
+C:\Users\Schule\source\repos\Coockie Clicker Rip-Off\Coockie Clicker Rip-Off\bin\Debug\net5.0-windows\Coockie Clicker Rip-Off.deps.json
+C:\Users\Schule\source\repos\Coockie Clicker Rip-Off\Coockie Clicker Rip-Off\bin\Debug\net5.0-windows\Coockie Clicker Rip-Off.runtimeconfig.json
+C:\Users\Schule\source\repos\Coockie Clicker Rip-Off\Coockie Clicker Rip-Off\bin\Debug\net5.0-windows\Coockie Clicker Rip-Off.runtimeconfig.dev.json
+C:\Users\Schule\source\repos\Coockie Clicker Rip-Off\Coockie Clicker Rip-Off\bin\Debug\net5.0-windows\Coockie Clicker Rip-Off.dll
+C:\Users\Schule\source\repos\Coockie Clicker Rip-Off\Coockie Clicker Rip-Off\bin\Debug\net5.0-windows\ref\Coockie Clicker Rip-Off.dll
+C:\Users\Schule\source\repos\Coockie Clicker Rip-Off\Coockie Clicker Rip-Off\bin\Debug\net5.0-windows\Coockie Clicker Rip-Off.pdb
+C:\Users\Schule\source\repos\Coockie Clicker Rip-Off\Coockie Clicker Rip-Off\obj\Debug\net5.0-windows\Coockie Clicker Rip-Off.dll
+C:\Users\Schule\source\repos\Coockie Clicker Rip-Off\Coockie Clicker Rip-Off\obj\Debug\net5.0-windows\ref\Coockie Clicker Rip-Off.dll
+C:\Users\Schule\source\repos\Coockie Clicker Rip-Off\Coockie Clicker Rip-Off\obj\Debug\net5.0-windows\Coockie Clicker Rip-Off.pdb
+C:\Users\Schule\source\repos\Coockie Clicker Rip-Off\Coockie Clicker Rip-Off\obj\Debug\net5.0-windows\Coockie Clicker Rip-Off.genruntimeconfig.cache

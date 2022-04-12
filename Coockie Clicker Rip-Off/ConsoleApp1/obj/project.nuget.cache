@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/3T1rXcfTIy70erq41mU/y4jT2utmmjA4jACWjEgA+BdmsWzwIbzinDGFL/oLX4xJtO+3ep/6TzhRN5jBULllw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Schule\\source\\repos\\Coockie Clicker Rip-Off\\ConsoleApp1\\EinNebenProgramm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Schule\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Schule\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\Schule\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\Schule\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

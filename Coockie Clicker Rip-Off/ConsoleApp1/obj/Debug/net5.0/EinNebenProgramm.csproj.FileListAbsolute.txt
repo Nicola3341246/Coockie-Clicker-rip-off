@@ -1,0 +1,16 @@
+C:\Users\Schule\source\repos\Coockie Clicker Rip-Off\ConsoleApp1\obj\Debug\net5.0\EinNebenProgramm.csproj.AssemblyReference.cache
+C:\Users\Schule\source\repos\Coockie Clicker Rip-Off\ConsoleApp1\obj\Debug\net5.0\EinNebenProgramm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Schule\source\repos\Coockie Clicker Rip-Off\ConsoleApp1\obj\Debug\net5.0\EinNebenProgramm.AssemblyInfoInputs.cache
+C:\Users\Schule\source\repos\Coockie Clicker Rip-Off\ConsoleApp1\obj\Debug\net5.0\EinNebenProgramm.AssemblyInfo.cs
+C:\Users\Schule\source\repos\Coockie Clicker Rip-Off\ConsoleApp1\obj\Debug\net5.0\EinNebenProgramm.csproj.CoreCompileInputs.cache
+C:\Users\Schule\source\repos\Coockie Clicker Rip-Off\ConsoleApp1\bin\Debug\net5.0\EinNebenProgramm.exe
+C:\Users\Schule\source\repos\Coockie Clicker Rip-Off\ConsoleApp1\bin\Debug\net5.0\EinNebenProgramm.deps.json
+C:\Users\Schule\source\repos\Coockie Clicker Rip-Off\ConsoleApp1\bin\Debug\net5.0\EinNebenProgramm.runtimeconfig.json
+C:\Users\Schule\source\repos\Coockie Clicker Rip-Off\ConsoleApp1\bin\Debug\net5.0\EinNebenProgramm.runtimeconfig.dev.json
+C:\Users\Schule\source\repos\Coockie Clicker Rip-Off\ConsoleApp1\bin\Debug\net5.0\EinNebenProgramm.dll
+C:\Users\Schule\source\repos\Coockie Clicker Rip-Off\ConsoleApp1\bin\Debug\net5.0\ref\EinNebenProgramm.dll
+C:\Users\Schule\source\repos\Coockie Clicker Rip-Off\ConsoleApp1\bin\Debug\net5.0\EinNebenProgramm.pdb
+C:\Users\Schule\source\repos\Coockie Clicker Rip-Off\ConsoleApp1\obj\Debug\net5.0\EinNebenProgramm.dll
+C:\Users\Schule\source\repos\Coockie Clicker Rip-Off\ConsoleApp1\obj\Debug\net5.0\ref\EinNebenProgramm.dll
+C:\Users\Schule\source\repos\Coockie Clicker Rip-Off\ConsoleApp1\obj\Debug\net5.0\EinNebenProgramm.pdb
+C:\Users\Schule\source\repos\Coockie Clicker Rip-Off\ConsoleApp1\obj\Debug\net5.0\EinNebenProgramm.genruntimeconfig.cache
